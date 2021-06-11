@@ -22,10 +22,12 @@ training Central Weather Bureau(CWB) API
 7. 參考 index.html 檔案
 
 8. 參考 main.js 檔案
-將{"Your Authorization"} 更換成自己申請的授權碼
 
-範例：https://opendata.cwb.gov.tw/historyapi/v1/getMetadata/O-A0059-001?Authorization=CWB-1234ABCD-78EF-GH90-12XY-IJKL12345678
+   將{"Your Authorization"} 更換成自己申請的授權碼
+
+   範例：https://opendata.cwb.gov.tw/historyapi/v1/getMetadata/O-A0059-001?Authorization=CWB-1234ABCD-78EF-GH90-12XY-IJKL12345678
 
 9. Demo
 
-![image](https://user-images.githubusercontent.com/85299566/121702515-895fd980-cb04-11eb-837e-d27039eff845.png)
+   ![image](https://user-images.githubusercontent.com/85299566/121703547-89aca480-cb05-11eb-9a6f-e866ce7c8f52.png)
+
